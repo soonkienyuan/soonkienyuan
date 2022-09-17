@@ -3,7 +3,7 @@
 HI, I am kien Yuan.
 
 ### About Me
-- Data Analytic student at University of Malaysia Pahang
+- Data Analytic student at Malaysia Pahang University
 - Entry-Level google certified data analytic professional; recently completed the Google Data Analytics Professional certificate.
 - Presently acquiring Machine Learning and Statistical Modeling-related knowledge
 
