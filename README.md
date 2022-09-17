@@ -37,14 +37,14 @@ HI, I am kien Yuan.
 
 
 ### :school: Some of My School Projects
-1. [Library Catalog App using Tkinter](https://github.com/taimoon/DSP-project-Library-Catalog)
-2. [DSA: Simple Console for inventory management](https://github.com/taimoon/DSAGroupProject)
-3. [Freight Port Management Database Project](https://github.com/taimoon/database-project)
+1. [Freight Port Management Database Project](https://github.com/soonkienyuan/database-project-1)
+2. [Austin Bicycle Crashes 2010-2017 Analysis](https://github.com/soonkienyuan/data-wrangling-school-project)
+3. Postgrel
+4. Tableau
 
 ### :trollface: Personal Projects
-1. **[nand2tetris: building a modern computer from first principles](https://github.com/taimoon/nand2tetris)**
-2. [Python Note](https://github.com/taimoon/Note)
-3. [C summation various idioms](https://github.com/taimoon/C-summation-example/blob/main/main.c)
+1. [Google Data Analytics Capstone Project Bellabeat](https://github.com/soonkienyuan/DataAnalytics_Capstone_case_study2)
+2. Micrograd
 
 ### :rage2: Lacking-in-Experience Languages
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
