@@ -39,12 +39,15 @@ HI, I am kien Yuan.
 ### :school: Some of My School Projects
 1. [Freight Port Management Database Project](https://github.com/soonkienyuan/database-project-1)
 2. [Austin Bicycle Crashes 2010-2017 Analysis](https://github.com/soonkienyuan/data-wrangling-school-project)
-3. Postgrel
-4. Tableau
+3. [OLAP-BASED ANALYSIS OF DATA FINDING THE MOST COST EFFECTIVE, UNDERRATED, OR SKILLED BASKETBALL PLAYERS.](https://github.com/soonkienyuan/OLAP-Analysis-using-postgreSQL)
+4. [User Analytics for Tracking App Usage on Mobile Devices](https://github.com/soonkienyuan/Mobile-app-usgae-analytics-within-my-group)
+5. [MALAYSIA: AN EXPLORATION OF GOVERNMENT PUPILS AND TEACHERS POPULATION DEMOGRAPHIC DATA BETWEEN 2017-2018](https://github.com/soonkienyuan/PUPILS-AND-TEACHERS-POPULATION-DEMOGRAPHIC)
+6. [Warehouse Management System](https://github.com/soonkienyuan/DSAGroupProject)
+7. [AI Chatbot](https://github.com/soonkienyuan/AI-School-Project)
 
 ### :trollface: Personal Projects
 1. [Google Data Analytics Capstone Project Bellabeat](https://github.com/soonkienyuan/DataAnalytics_Capstone_case_study2)
-2. Micrograd
+2. [Discover Micrograd - backpropagation and neural network training](https://github.com/soonkienyuan/NOTE-build-from-scratch-neural-networks-Micrograd)
 
 ### :rage2: Lacking-in-Experience Languages
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
