@@ -12,6 +12,7 @@ HI, I am kien Yuan.
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![R markdown](https://img.shields.io/badge/-R%20Markdown-darkblue?style=for-the-badge)
 
 ### 💾 Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -28,6 +29,8 @@ HI, I am kien Yuan.
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Typora](https://img.shields.io/badge/-Typora-white?style=for-the-badge)
+![Google sheet](https://img.shields.io/badge/-Google%20Sheet-brightgreen?style=for-the-badge)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### :game_die: Mathematics
 ![Mathmatical Statistics](https://img.shields.io/badge/-Statistics-brightgreen?style=for-the-badge)
