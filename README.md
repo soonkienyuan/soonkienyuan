@@ -45,6 +45,8 @@ HI, I am kien Yuan.
 3. [OLAP-BASED ANALYSIS OF DATA FINDING THE MOST COST EFFECTIVE, UNDERRATED, OR SKILLED BASKETBALL PLAYERS.](https://github.com/soonkienyuan/OLAP-Analysis-using-postgreSQL)
 4. [User Analytics for Tracking App Usage on Mobile Devices](https://github.com/soonkienyuan/Mobile-app-usgae-analytics-within-my-group)
 5. [MALAYSIA: AN EXPLORATION OF GOVERNMENT PUPILS AND TEACHERS POPULATION DEMOGRAPHIC DATA BETWEEN 2017-2018](https://github.com/soonkienyuan/PUPILS-AND-TEACHERS-POPULATION-DEMOGRAPHIC)
+6. [Handwritten Digit Recognition using ANN](https://github.com/soonkienyuan/handwritten-digits-recognition-1)
+7. [IEEE-CIS Fraud Detection](https://github.com/soonkienyuan/Fraud_detection)(only make a small contribution) (only make a small contribution)
 
 ### :trollface: Personal Projects
 1. [Google Data Analytics Capstone Project Bellabeat](https://github.com/soonkienyuan/DataAnalytics_Capstone_case_study2)
